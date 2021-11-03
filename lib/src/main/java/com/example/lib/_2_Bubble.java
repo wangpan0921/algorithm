@@ -1,6 +1,6 @@
 package com.example.lib;
 //冒泡排序:相邻两个比较, i的数值大于i+1,则交换.循环一次,最大的排到数组最后.
-public class Bubble {
+public class _2_Bubble {
     public static void bubbleSort(int arr[]){
         System.out.println("bubbleSort");
         for(int j=0; j < arr.length - 1; j++) {

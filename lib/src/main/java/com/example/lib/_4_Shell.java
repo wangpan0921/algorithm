@@ -1,6 +1,6 @@
 package com.example.lib;
 //希尔排序是插入排序的升级. 间隔大的时候,移动的少,间隔少,移动的距离短.由于跳着排,所以不稳定.
-public class Shell {
+public class _4_Shell {
     public static void shellSort(int []arr) {
 //        int h = 1;
 //        while(h < arr.length / 3) {
